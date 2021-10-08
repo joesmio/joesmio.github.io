@@ -14,6 +14,6 @@ My recent [work](/papers.md) focussed on embedding atom-like systems in photonic
 
 I am also interested in RF engineering, specifically for quantum spin manipulation, and am Co-I on a UK [Quantum Computing and Simulation Hub](https://www.qcshub.org/) Partnership Resource to integrate atom-like systems with silicon electronics.
 
-My aim is to put photonics and electronics front and centre: with useful applications in adding spins to photonic quantum computing and networks, but also for more near-term implications of high resolution imaging and sensing.
+My aim is to put photonics and electronics front and centre: with useful applications in adding spins to photonic quantum computing and networks, but also for more near-term implications for high resolution imaging and sensing.
 
 
