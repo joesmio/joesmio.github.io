@@ -28,9 +28,12 @@ repository: "joesmio/joesmio.github.io"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - index.md
+  - papers.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,6 +44,12 @@ header_pages:
 #  - node_modules
 #  - update_boostrap.sh
 
-theme: jekyll-theme-clean-blog
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima # or slate
 
 picture: assets/profile.jpg
+
+minima:
+  social_links:
+    twitter: joesmio
+    github: joesmio
