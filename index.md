@@ -12,7 +12,7 @@ My research looks to create useful applications from lab demonstrations with the
 
 My recent [work](/papers.md) focussed on embedding atom-like systems in photonics, demonstrating compatibility with silicon photonics.
 
-I am also interested in RF engineering, specifically for quantum spin manipulation, and am Co-I on a UK quantum hub partnership resource to integrate atom-like systems with silicon electronics.
+I am also interested in RF engineering, specifically for quantum spin manipulation, and am Co-I on a UK [Quantum Computing and Simulation Hub](https://www.qcshub.org/) Partnership Resource to integrate atom-like systems with silicon electronics.
 
 My aim is to put photonics and electronics front and centre: with useful applications in adding spins to photonic quantum computing and networks, but also for more near-term implications of high resolution imaging and sensing.
 
