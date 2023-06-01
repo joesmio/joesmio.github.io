@@ -2,6 +2,12 @@
 layout: page
 title: Publications
 ---
+["Robotic vectorial field alignment for spin-based quantum sensors"](https://arxiv.org/abs/2305.17027) \
+*Preprint* \
+<u>Joe A Smith</u>, Dandan Zhang, Krishna C. Balram\
+*Developing practical quantum technologies will require the exquisite manipulation of fragile systems in a robust and repeatable way. As quantum technologies move towards real world applications, from biological sensing to communication in space, increasing experimental complexity introduces constraints that can be alleviated by the introduction of new technologies. Robotics has shown tremendous technological progress by realising increasingly smart, autonomous and highly dexterous machines. Here, we show that a robot can sensitise an NV centre quantum magnetometer. We demonstrate that a robotic arm equipped with a magnet can traverse a highly complex experimental setting to provide a vector magnetic field with up to 1∘ angular accuracy and below 0.1 mT amplitude error, and determine the orientation of a single stochastically-aligned spin-based sensor. Our work opens up the prospect of integrating robotics across many quantum degrees of freedom in constrained environments, allowing for increased prototyping speed, control, and robustness in quantum technology applications.* 
+Preprint available at [arXiv:2305.17027](https://arxiv.org/abs/2305.17027)
+
 ["Heterogeneous integration of solid state quantum systems with a foundry photonics platform"](https://arxiv.org/abs/2304.10227) \
 *Preprint* \
 Hao-Cheng Weng, Jorge Monroy-Ruz, Jonathan C. F. Matthews, John G. Rarity, Krishna C. Balram, <u>Joe A Smith</u> \
