@@ -2,14 +2,14 @@
 layout: page
 title: Publications
 ---
-["Robotic vectorial field alignment for spin-based quantum sensors"](https://arxiv.org/abs/2305.17027) \
-*Preprint* \
+["Robotic vectorial field alignment for spin-based quantum sensors"](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304449) \
+Advanced Science (2023): 2304449 \
 <u>Joe A Smith</u>, Dandan Zhang, Krishna C. Balram\
 *Developing practical quantum technologies will require the exquisite manipulation of fragile systems in a robust and repeatable way. As quantum technologies move towards real world applications, from biological sensing to communication in space, increasing experimental complexity introduces constraints that can be alleviated by the introduction of new technologies. Robotics has shown tremendous technological progress by realising increasingly smart, autonomous and highly dexterous machines. Here, we show that a robot can sensitise an NV centre quantum magnetometer. We demonstrate that a robotic arm equipped with a magnet can traverse a highly complex experimental setting to provide a vector magnetic field with up to 1∘ angular accuracy and below 0.1 mT amplitude error, and determine the orientation of a single stochastically-aligned spin-based sensor. Our work opens up the prospect of integrating robotics across many quantum degrees of freedom in constrained environments, allowing for increased prototyping speed, control, and robustness in quantum technology applications.* 
 Preprint available at [arXiv:2305.17027](https://arxiv.org/abs/2305.17027)
 
-["Heterogeneous integration of solid state quantum systems with a foundry photonics platform"](https://arxiv.org/abs/2304.10227) \
-*Preprint* \
+["Heterogeneous integration of solid state quantum systems with a foundry photonics platform"](https://pubs.acs.org/doi/10.1021/acsphotonics.3c00713) \
+ACS Photonics 10.9 (2023):3302–3309\
 Hao-Cheng Weng, Jorge Monroy-Ruz, Jonathan C. F. Matthews, John G. Rarity, Krishna C. Balram, <u>Joe A Smith</u> \
 *Diamond colour centres are promising optically-addressable solid state spins that can be matter-qubits, mediate deterministic interaction between photons and act as single photon emitters. Useful quantum computers will comprise millions of logical qubits. To become useful in constructing quantum computers, spin-photon interfaces must therefore become scalable and be compatible with mass-manufacturable photonics and electronics. Here we demonstrate heterogeneous integration of NV centres in nanodiamond with low-fluorescence silicon nitride photonics from a standard 180 nm CMOS foundry process. Nanodiamonds are positioned over pre-defined sites in a regular array on a waveguide, in a single post-processing step. Using an array of optical fibres, we excite NV centres selectively from an array of six integrated nanodiamond sites, and collect the photoluminescence (PL) in each case into waveguide circuitry on-chip. We verify single photon emission by an on-chip Hanbury Brown and Twiss cross-correlation measurement, which is a key characterisation experiment otherwise typically performed routinely with discrete optics. Our work opens up a simple and effective route to simultaneously address large arrays of individual optically-active spins at scale, without requiring discrete bulk optical setups. This is enabled by the heterogeneous integration of NV centre nanodiamonds with CMOS photonics.* 
 Preprint available at [arXiv:2304.10227](https://arxiv.org/abs/2304.10227)
