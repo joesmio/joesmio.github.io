@@ -1,0 +1,10 @@
+---
+layout: publication
+title: Heterogeneous integration of solid state quantum systems with a foundry photonics platform
+authors: Hao-Cheng Weng, Jorge Monroy-Ruz, Jonathan C. F. Matthews, John G. Rarity, Krishna C. Balram, Joe A Smith
+journal: ACS Photonics 10.9 (2023):3302–3309
+link: https://pubs.acs.org/doi/10.1021/acsphotonics.3c00713
+arxiv: https://arxiv.org/abs/2304.1022
+---
+
+Diamond colour centres are promising optically-addressable solid state spins that can be matter-qubits, mediate deterministic interaction between photons and act as single photon emitters. Useful quantum computers will comprise millions of logical qubits. To become useful in constructing quantum computers, spin-photon interfaces must therefore become scalable and be compatible with mass-manufacturable photonics and electronics. Here we demonstrate heterogeneous integration of NV centres in nanodiamond with low-fluorescence silicon nitride photonics from a standard 180 nm CMOS foundry process. Nanodiamonds are positioned over pre-defined sites in a regular array on a waveguide, in a single post-processing step. Using an array of optical fibres, we excite NV centres selectively from an array of six integrated nanodiamond sites, and collect the photoluminescence (PL) in each case into waveguide circuitry on-chip. We verify single photon emission by an on-chip Hanbury Brown and Twiss cross-correlation measurement, which is a key characterisation experiment otherwise typically performed routinely with discrete optics. Our work opens up a simple and effective route to simultaneously address large arrays of individual optically-active spins at scale, without requiring discrete bulk optical setups. This is enabled by the heterogeneous integration of NV centre nanodiamonds with CMOS photonics.* 

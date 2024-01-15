@@ -35,6 +35,11 @@ header_pages:
   - index.md
   - papers.md
 
+collections:
+  publications:
+    output: false
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -47,7 +52,7 @@ header_pages:
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 theme: minima # or slate
 
-picture: assets/profile.jpg
+picture: assets/profile24.jpg
 
 minima:
   social_links:

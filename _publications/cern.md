@@ -1,0 +1,10 @@
+---
+layout: publication
+title: Charge transfer properties through graphene for applications in gaseous detectors
+authors: S Franchino, D Gonzalez-Diaz, R Hall-Wilton, RB Jackman, H Muller, TT Nguyen, R de Oliveira, E Oliveri, D Pfeiffer, F Resnati, L Ropelewski, J Smith, M van Stenis, C Streli, P Thuiner, R Veenhof 
+journal: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 824 (2016): 571-574. 
+link: https://www.sciencedirect.com/science/article/pii/S0168900215014515
+arxiv: https://arxiv.org/abs/1503.06596
+---
+
+Graphene is a single layer of carbon atoms arranged in a honeycomb lattice with remarkable mechanical and electrical properties. Regarded as the thinnest and narrowest conductive mesh, it has drastically different transmission behaviours when bombarded with electrons and ions in vacuum. This property, if confirmed in gas, may be a definitive solution for the ion back-flow problem in gaseous detectors. In order to ascertain this aspect, graphene layers of dimensions of about 2×2 cm2, grown on a copper substrate, are transferred onto a flat metal surface with holes, so that the graphene layer is freely suspended. The graphene and the support are installed into a gaseous detector equipped with a triple Gaseous Electron Multiplier (GEM), and the transparency properties to electrons and ions are studied in gas as a function of the electric fields. The techniques to produce the graphene samples are described, and we report on preliminary tests of graphene-coated GEMs.
