@@ -5,22 +5,35 @@ layout: default
 <div>
   <ul class="list-unstyled">
 
-  {% for item in site.publications %}
+    {% assign sorted = site.publications | reverse %}
+  {% for item in sorted %}
     <li>
-      <blockquote>
-      <h4><a href="{{ item.link }}">{{ item.title }}</a></h4>
-  {{ item.authors }}
-  <i>{{ item.journal }}</i>
-  <p>
-  {{item.content}}
-    </p>
-  {%- if item.arxiv -%}
-  Arxiv link at <a href="{{ item.arxiv }}">{{ item.arxiv }}</a>
-  {%- endif -%}
-    </li>
-    </blockquote>
+      <div class="container">
+        <div class="row">
+          <div class="col-md">
+            <blockquote>
+              <h4><a href="{{ item.link }}">{{ item.title }}</a></h4>
+              {{ item.authors }}
+              <i>{{ item.journal }}</i>
+              <p>
+                {{item.content}}
+              </p>
+              {%- if item.arxiv -%}
+              Arxiv link at <a href="{{ item.arxiv }}">{{ item.arxiv }}</a>
+              {%- endif -%}
+            </blockquote>          </div>
+          <div class="col-lg-3">
+            {%- if item.thumbnail -%}
+            <a href="{{ item.link }}"><img src="{{ item.thumbnail }}" alt="{{ item.title }}" class="img-thumbnail"></a>
+            {%- endif -%}
+          </div>
+        </div>
+      </div>
 
-    {% endfor %}
+
+    </li>
+  <br>
+  {% endfor %}
   </ul>
 
 

@@ -1,9 +1,9 @@
 ---
 layout: home
 title: About me
+image: assets/profile24.jpg
 ---
 
-![Profile Image]({{ site.picture }}){: style="float: center"}
 
 I am a postdoc designing silicon chips to connect and control single spins currently based in [QET Labs, University of Bristol, UK](https://www.bristol.ac.uk/people/person/Joe-Smith-acb28703-28ff-44b0-8929-ff449fb7e979/).
 

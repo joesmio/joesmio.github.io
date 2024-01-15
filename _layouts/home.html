@@ -4,10 +4,15 @@ layout: default
 
 <div>
 
+
+
+  {%- if page.image -%}
+  <img src="{{ page.image }}" alt="{{ page.title }}" class="rounded mx-auto d-block"></a>
+  <br>
+  {%- endif -%}
+
   {%- if page.title -%}
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
+  <h4>{{ page.title }}</h4>
   {%- endif -%}
 
   <section>
