@@ -3,7 +3,7 @@ layout: home
 title: About me
 ---
 
-![Profile Image]({{ site.picture }}){: style="float: center;margin-right: 1em;"}
+![Profile Image]({{ site.picture }}){: style="float: center"}
 
 I am a postdoc in [QET Labs at the University of Bristol](https://www.bristol.ac.uk/people/person/Joe-Smith-acb28703-28ff-44b0-8929-ff449fb7e979/) designing silicon chips to connect and control single spins.
 
