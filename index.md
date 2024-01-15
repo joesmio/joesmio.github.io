@@ -5,7 +5,7 @@ title: About me
 
 ![Profile Image]({{ site.picture }}){: style="float: center"}
 
-I am a postdoc in [QET Labs at the University of Bristol](https://www.bristol.ac.uk/people/person/Joe-Smith-acb28703-28ff-44b0-8929-ff449fb7e979/) designing silicon chips to connect and control single spins.
+I am a postdoc designing silicon chips to connect and control single spins currently based in [QET Labs, University of Bristol, UK](https://www.bristol.ac.uk/people/person/Joe-Smith-acb28703-28ff-44b0-8929-ff449fb7e979/).
 
 My research looks to create useful applications from lab demonstrations with the injection of technologies. One target is answering whether single atom-like defects in solids can be controlled at scale, by borrowing existing semiconductor processing tools.
 
