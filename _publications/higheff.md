@@ -1,8 +1,7 @@
 ---
-layout: publication
 title: Towards compact high-efficiency grating couplers for visible wavelength photonics
 authors: Joe A Smith, Jorge Monroy-Ruz, Pisu Jiang, John G. Rarity, Krishna C. Balram
-journal: Optics Letters 47.15 (2022): 3868-3871.
+journal: "Optics Letters 47.15 (2022): 3868-3871."
 link: https://doi.org/10.1364/OL.468275
 arxiv: https://arxiv.org/abs/2109.15309
 ---

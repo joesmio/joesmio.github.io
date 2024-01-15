@@ -1,8 +1,7 @@
 ---
-layout: publication
 title: Single photon emission and single spin coherence of a nitrogen vacancy center encapsulated in silicon nitride
 authors: Joe A Smith, Jorge Monroy-Ruz, John G Rarity, Krishna C Balram
-journal: Applied Physics Letters 116.13 (2020): 134001
+journal: Applied Physics Letters 116.13 (2020):134001
 link: https://aip.scitation.org/doi/full/10.1063/5.0002709
 arxiv: https://arxiv.org/abs/1909.09383
 ---

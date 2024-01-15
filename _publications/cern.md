@@ -1,8 +1,7 @@
 ---
-layout: publication
 title: Charge transfer properties through graphene for applications in gaseous detectors
 authors: S Franchino, D Gonzalez-Diaz, R Hall-Wilton, RB Jackman, H Muller, TT Nguyen, R de Oliveira, E Oliveri, D Pfeiffer, F Resnati, L Ropelewski, J Smith, M van Stenis, C Streli, P Thuiner, R Veenhof 
-journal: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 824 (2016): 571-574. 
+journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 824 (2016): 571-574."
 link: https://www.sciencedirect.com/science/article/pii/S0168900215014515
 arxiv: https://arxiv.org/abs/1503.06596
 ---

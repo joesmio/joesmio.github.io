@@ -1,8 +1,7 @@
 ---
-layout: publication
 title: Robotic vectorial field alignment for spin-based quantum sensors
 authors: Joe A Smith, Dandan Zhang, Krishna C. Balram
-journal: Advanced Science (2023): 2304449
+journal: "Advanced Science (2023): 2304449"
 link: https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304449
 arxiv: https://arxiv.org/abs/2305.17027
 ---

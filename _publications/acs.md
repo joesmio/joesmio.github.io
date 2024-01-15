@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: Heterogeneous integration of solid state quantum systems with a foundry photonics platform
 authors: Hao-Cheng Weng, Jorge Monroy-Ruz, Jonathan C. F. Matthews, John G. Rarity, Krishna C. Balram, Joe A Smith
 journal: ACS Photonics 10.9 (2023):3302–3309

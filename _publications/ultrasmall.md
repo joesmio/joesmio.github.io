@@ -1,8 +1,7 @@
 ---
-layout: publication
-title: Nitrogen-Vacancy Center Coupled to an Ultrasmall-Mode-Volume Cavity: A High-Efficiency Source of Indistinguishable Photons at 200 K.
+title: "Nitrogen-Vacancy Center Coupled to an Ultrasmall-Mode-Volume Cavity: A High-Efficiency Source of Indistinguishable Photons at 200 K"
 authors: Joe A Smith, Chloe Clear, Krishna C Balram, Dara PS McCutcheon, John G Rarity 
-journal: Physical Review Applied 15.3 (2021): 034029
+journal: "Physical Review Applied 15.3 (2021): 034029"
 link: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034029
 arxiv: https://arxiv.org/abs/2005.13478
 ---

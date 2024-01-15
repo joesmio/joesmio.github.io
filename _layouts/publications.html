@@ -3,10 +3,25 @@ layout: default
 ---
 
 <div>
+  <ul class="list-unstyled">
 
   {% for item in site.publications %}
-  <h2>{{ item.title }}</h2>
-  {% endfor %}
+    <li>
+      <blockquote>
+      <h4><a href="{{ item.link }}">{{ item.title }}</a></h4>
+  {{ item.authors }}
+  <i>{{ item.journal }}</i>
+  <p>
+  {{item.content}}
+    </p>
+  {%- if item.arxiv -%}
+  Arxiv link at <a href="{{ item.arxiv }}">{{ item.arxiv }}</a>
+  {%- endif -%}
+    </li>
+    </blockquote>
+
+    {% endfor %}
+  </ul>
 
 
 </div>
