@@ -18,6 +18,27 @@ layout: default
   <section>
     {{ content }}
   </section>
+  <br>
+  {%- if page.lab -%}
+  <div class="row justify-content-center">
+    <div class="col-sm-4">
+  <img src="assets/lab3.jpeg" alt="{{ page.title }}" class="rounded img-responsive">
+      </div>
+    <div class="col-sm-3">
+
+    <img src="assets/lab1.jpeg" alt="{{ page.title }}" class="rounded img-responsive">
+    </div>
+
+    <div class="col-sm-4">
+      <img src="assets/lab2.jpeg" alt="{{ page.title }}" class="rounded img-responsive">
+    </div>
+    </div>
+  <br>
+  <div class="row justify-content-center", padding="30px">
+    <i> Pictures from the lab in 2023: Vivek Tiwari measuring an NV centre PL at 10 K; Hao-Cheng Weng performing a Rabi oscillation </i>
+</div>
+    <br>
+  {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
     <p class="h4">{{ page.list_title | default: "Posts" }}</p>
