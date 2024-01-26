@@ -1,7 +1,7 @@
 ---
 title: Efficient spin-photon interfaces for distributing entanglement
 authors: Joe A Smith
-journal: PhD thesis
+journal: PhD thesis (2019)
 link: https://research-information.bris.ac.uk/en/studentTheses/efficient-spin-photon-interfaces-for-distributing-entanglement
 thumbnail: assets/thesis.jpg
 ---
